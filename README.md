@@ -19,4 +19,4 @@ I am transitioning from blue collar work to help build a stable yet durable Clou
 
 **Contact/Connect*
 - LinkedIn: https://www.linkedin.com/in/joshua-ortega-594392344/
-- Note: If you are hiring for junior cloud/security roles, I will be documenting my progress every week!
+- Note: If you are hiring for junior cloud/security roles, I will be documenting my progress every week.
